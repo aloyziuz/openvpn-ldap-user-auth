@@ -1,0 +1,12 @@
+.svn
+.vs
+bin
+obj
+publish
+packages
+TestResults
+
+
+
+Attendance Setup
+*.htm
